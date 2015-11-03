@@ -1,0 +1,9 @@
+F:\ITC110\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+F:\ITC110\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+F:\ITC110\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+F:\ITC110\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+F:\ITC110\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+F:\ITC110\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+D:\ITC110\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+D:\ITC110\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+D:\ITC110\Assignment3\Assignment3\obj\Debug\Assignment3.pdb

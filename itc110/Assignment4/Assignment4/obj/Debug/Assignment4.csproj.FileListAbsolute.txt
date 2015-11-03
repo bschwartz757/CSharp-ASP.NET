@@ -1,0 +1,9 @@
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\bschwartz\Desktop\Assignment 4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

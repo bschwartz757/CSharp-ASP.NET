@@ -1,0 +1,12 @@
+﻿body {
+    font-family:Verdana;
+}
+table tr th{
+    background-color:navy;
+    color:white;
+    border:solid 3px black;
+}
+
+.textback{
+    background-color:aliceblue;
+}

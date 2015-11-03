@@ -1,0 +1,9 @@
+100.55
+25.1375
+34.5892
+The total amount of the meal is: 100.25
+The recommended tip amount is: 45.1125
+The grand total is: 54.536
+The total amount of the meal is: 100.45
+The recommended tip amount is: 55.2475
+The grand total is: 64.6898

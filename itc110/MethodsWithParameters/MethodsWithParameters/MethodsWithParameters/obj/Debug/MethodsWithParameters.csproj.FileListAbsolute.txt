@@ -1,0 +1,2 @@
+C:\Users\bschwartz\Desktop\In Class\MethodsWithParameters\MethodsWithParameters\MethodsWithParameters\bin\Debug\MethodsWithParameters.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\MethodsWithParameters\MethodsWithParameters\MethodsWithParameters\bin\Debug\MethodsWithParameters.exe.config

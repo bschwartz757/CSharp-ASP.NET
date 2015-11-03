@@ -1,0 +1,8 @@
+C:\Users\bschwartz\ITC 110\Week 5\Arrays2\Arrays2\bin\Debug\Arrays2.exe.config
+C:\Users\bschwartz\ITC 110\Week 5\Arrays2\Arrays2\obj\Debug\Arrays2.csprojResolveAssemblyReference.cache
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\bin\Debug\Arrays2.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\obj\Debug\Arrays2.csprojResolveAssemblyReference.cache
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\bin\Debug\Arrays2.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\bin\Debug\Arrays2.pdb
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\obj\Debug\Arrays2.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Methods2\Arrays2\obj\Debug\Arrays2.pdb

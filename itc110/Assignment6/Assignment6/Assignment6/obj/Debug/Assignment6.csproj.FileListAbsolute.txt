@@ -1,0 +1,12 @@
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\bschwartz\Desktop\In Class\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+E:\ITC110\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+E:\ITC110\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+E:\ITC110\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

@@ -1,0 +1,24 @@
+D:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+D:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.exe
+D:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.pdb
+D:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.csprojResolveAssemblyReference.cache
+D:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.exe
+D:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.pdb
+F:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+F:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.exe
+F:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.pdb
+F:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.exe
+F:\ITC110\Assignment3\Assignment3\bin\Release\Assignment3.pdb
+F:\ITC110\Assignment3\Assignment3\obj\Release\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+C:\Users\bschwartz\Desktop\Assignment3\Assignment3\obj\Release\Assignment3.exe
+C:\Users\bschwartz\Desktop\Assignment3\Assignment3\obj\Release\Assignment3.pdb
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\obj\Release\Assignment3.exe
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\obj\Release\Assignment3.pdb
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\bin\Release\Assignment3.exe
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\bin\Release\Assignment3.pdb
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3\Assignment3\obj\Release\Assignment3.csprojResolveAssemblyReference.cache
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_1\Assignment3\bin\Release\Assignment3.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_1\Assignment3\obj\Release\Assignment3.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_1\Assignment3\obj\Release\Assignment3.pdb

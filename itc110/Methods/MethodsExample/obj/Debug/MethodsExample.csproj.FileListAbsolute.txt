@@ -1,0 +1,6 @@
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe.config
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\bin\Debug\MethodsExample.pdb
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\obj\Debug\MethodsExample.exe
+C:\Users\bschwartz\Desktop\In Class\MethodsExample\MethodsExample\obj\Debug\MethodsExample.pdb

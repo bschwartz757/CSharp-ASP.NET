@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="77aae222-d991-4ca4-a5f5-7f1d93be2d48" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:46381/ShowDetailService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ShowDetailService.wsdl" MetadataType="Wsdl" ID="817e2cea-96fd-40b3-96d0-e711148406a3" SourceId="1" SourceUrl="http://localhost:46381/ShowDetailService.svc?wsdl" />
+    <MetadataFile FileName="ShowDetailService.xsd" MetadataType="Schema" ID="dd8380b6-5a3d-48d3-a2be-4df4e0414386" SourceId="1" SourceUrl="http://localhost:46381/ShowDetailService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ShowDetailService1.xsd" MetadataType="Schema" ID="cd744443-ec38-4e0a-bbf9-b0a1a328463e" SourceId="1" SourceUrl="http://localhost:46381/ShowDetailService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ShowDetailService2.xsd" MetadataType="Schema" ID="b2b31281-450e-4c45-8188-b0fa7982a667" SourceId="1" SourceUrl="http://localhost:46381/ShowDetailService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ShowDetailService.disco" MetadataType="Disco" ID="3d553b92-e717-4977-a05e-4080394c441b" SourceId="1" SourceUrl="http://localhost:46381/ShowDetailService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

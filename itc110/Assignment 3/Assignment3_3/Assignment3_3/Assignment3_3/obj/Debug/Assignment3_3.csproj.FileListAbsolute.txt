@@ -1,0 +1,12 @@
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\bin\Debug\Assignment3_3.exe.config
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\bin\Debug\Assignment3_3.exe
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\bin\Debug\Assignment3_3.pdb
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.exe
+C:\Users\bschwartz\Desktop\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.pdb
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\bin\Debug\Assignment3_3.exe.config
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.exe
+C:\Users\bschwartz\Desktop\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.pdb
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\bin\Debug\Assignment3_3.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Assignment 3\Assignment3_3\Assignment3_3\Assignment3_3\obj\Debug\Assignment3_3.pdb

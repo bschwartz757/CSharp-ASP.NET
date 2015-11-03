@@ -1,0 +1,9 @@
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\bin\Debug\ClassExercise4_2.exe.config
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\bin\Debug\ClassExercise4_2.exe
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\bin\Debug\ClassExercise4_2.pdb
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\obj\Debug\ClassExercise4_2.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\obj\Debug\ClassExercise4_2.exe
+C:\Users\bschwartz\ITC 110\Week 4\ClassExercise4_2\ClassExercise4_2\obj\Debug\ClassExercise4_2.pdb
+E:\ITC110\Week 4\ClassExercise4_2\ClassExercise4_2\bin\Debug\ClassExercise4_2.exe.config
+E:\ITC110\Week 4\ClassExercise4_2\ClassExercise4_2\obj\Debug\ClassExercise4_2.exe
+E:\ITC110\Week 4\ClassExercise4_2\ClassExercise4_2\obj\Debug\ClassExercise4_2.pdb

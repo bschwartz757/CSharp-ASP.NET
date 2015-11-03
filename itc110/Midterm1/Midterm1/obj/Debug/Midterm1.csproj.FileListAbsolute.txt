@@ -1,0 +1,16 @@
+C:\SCCC 2014-2015 WD Files\ITC110\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+E:\ITC110\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.pdb
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.exe
+C:\Users\bschwartz\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.pdb
+E:\ITC110\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.exe
+E:\ITC110\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.pdb
+E:\ITC110\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe
+E:\ITC110\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.pdb
+E:\ITC110\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.csprojResolveAssemblyReference.cache
+C:\SCCC 2014-2015 WD Files\ITC110\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+C:\SCCC 2014-2015 WD Files\ITC110\Midterm1\Midterm1\obj\Debug\Midterm1.exe
+C:\SCCC 2014-2015 WD Files\ITC110\Midterm1\Midterm1\obj\Debug\Midterm1.pdb

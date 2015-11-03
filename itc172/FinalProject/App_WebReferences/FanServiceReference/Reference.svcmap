@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0eb7fd98-b391-4c21-8ff4-3304b5cd120b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:15310/FanRegisterLoginService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FanRegisterLoginService.xsd" MetadataType="Schema" ID="bc1a0f45-21e9-4515-8694-18893a4dc7cd" SourceId="1" SourceUrl="http://localhost:15310/FanRegisterLoginService.svc?xsd=xsd2" />
+    <MetadataFile FileName="FanRegisterLoginService1.xsd" MetadataType="Schema" ID="b011dfd5-3d36-4411-acde-aa55f3eb7375" SourceId="1" SourceUrl="http://localhost:15310/FanRegisterLoginService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FanRegisterLoginService2.xsd" MetadataType="Schema" ID="f98cb47e-d160-42e7-8547-957927ec523d" SourceId="1" SourceUrl="http://localhost:15310/FanRegisterLoginService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FanRegisterLoginService.wsdl" MetadataType="Wsdl" ID="5a6fa744-d19a-491b-a8ba-fc942215f6dc" SourceId="1" SourceUrl="http://localhost:15310/FanRegisterLoginService.svc?wsdl" />
+    <MetadataFile FileName="FanRegisterLoginService.disco" MetadataType="Disco" ID="2c901edd-174a-4aed-bae9-a6c5d0900d5a" SourceId="1" SourceUrl="http://localhost:15310/FanRegisterLoginService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

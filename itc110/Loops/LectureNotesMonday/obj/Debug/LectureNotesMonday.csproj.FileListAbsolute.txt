@@ -1,0 +1,12 @@
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\bin\Debug\LectureNotesMonday.exe.config
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\bin\Debug\LectureNotesMonday.exe
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\bin\Debug\LectureNotesMonday.pdb
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\obj\Debug\LectureNotesMonday.csprojResolveAssemblyReference.cache
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\obj\Debug\LectureNotesMonday.exe
+C:\Users\bschwartz\Desktop\In Class\LectureNotesMonday\LectureNotesMonday\obj\Debug\LectureNotesMonday.pdb
+E:\ITC110\LectureNotesMonday\LectureNotesMonday\bin\Debug\LectureNotesMonday.exe.config
+E:\ITC110\LectureNotesMonday\LectureNotesMonday\obj\Debug\LectureNotesMonday.exe
+E:\ITC110\LectureNotesMonday\LectureNotesMonday\obj\Debug\LectureNotesMonday.pdb
+E:\ITC110\Loops\LectureNotesMonday\bin\Debug\LectureNotesMonday.exe.config
+E:\ITC110\Loops\LectureNotesMonday\obj\Debug\LectureNotesMonday.exe
+E:\ITC110\Loops\LectureNotesMonday\obj\Debug\LectureNotesMonday.pdb
